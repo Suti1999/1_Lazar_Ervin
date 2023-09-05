@@ -79,7 +79,11 @@ h2 {
 }
 
 .kepalairas{
-
+	font-size: 5px;
+	text-align: center;
+	word-wrap: break-word;
+	width: 76px;
+	margin: auto;
 }
 
 .szurke{
